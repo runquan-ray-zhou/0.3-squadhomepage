@@ -27,20 +27,20 @@ export default function SquadMember({ member }) {
                                 </div>
                             </div>
                             <div className="squadMember__specialties">
-                            <span>Fanatic of:</span>
-                            <span>{member.fan[0]}|</span>
-                            <span>{member.fan[1]}|</span>
-                            <span>{member.fan[2]}</span>
+                                <span>Fanatic of:</span>
+                                <span>{member.fan[0]}|</span>
+                                <span>{member.fan[1]}|</span>
+                                <span>{member.fan[2]}</span>
                             </div>
-                               <div className="squadMember__links">
-                            <a href={member.github}><span>Github</span></a>
-                            <a href={member.linkedin}><span>LinkedIn</span></a>
-                            <a href={member.codeTrack}><span>CodeTrack</span></a>
-                            <a href={member.notion}><span>Notion</span></a>
-                            <a href={member.rick}><span>Facebook</span></a>
-                            <a href={member.rick}><span>Twitter/X</span></a>
-                            <a href={member.rick}><span>Instagram</span></a>
-                            <a href={member.rick}><span>TikTok</span></a>
+                            <div className="squadMember__links">
+                                <a href={member.github}><span>Github</span></a>
+                                <a href={member.linkedin}><span>LinkedIn</span></a>
+                                <a href={member.codeTrack}><span>CodeTrack</span></a>
+                                <a href={member.notion}><span>Notion</span></a>
+                                <a href={member.rick}><span>Facebook</span></a>
+                                <a href={member.rick}><span>Twitter/X</span></a>
+                                <a href={member.rick}><span>Instagram</span></a>
+                                <a href={member.rick}><span>TikTok</span></a>
                             </div>
                         </div> 
                     </div>
