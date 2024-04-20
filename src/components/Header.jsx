@@ -2,7 +2,7 @@ export default function Header() {
 
     return (
         <header>
-            <h1>Pursuit 10.6 - Squad 2/4 "
+            <h1>Squad 2/4 "
             <span style={{color:"#4285F4"}}>A</span>
             <span style={{color:"#EA4335"}}>N</span>
             <span style={{color:"#FBBC05"}}>A</span>
