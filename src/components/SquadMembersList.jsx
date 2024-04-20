@@ -3,7 +3,7 @@ import SquadMember from "./SquadMember"
 const squadMemberList = [
     {   color: "#4285F4",
         name: "Abdelrahman Sayedahmed",
-        img: "https://media.licdn.com/dms/image/D4E35AQHQ8m8wTN0XsA/profile-framedphoto-shrink_400_400/0/1705967786875?e=1713495600&v=beta&t=h5ipC6FgGiOIJYAt71ME2pr2EUqIbhtzhFg2L1VnqQo",
+        img: "https://media.licdn.com/dms/image/D4E35AQHQ8m8wTN0XsA/profile-framedphoto-shrink_400_400/0/1705967786875?e=1714197600&v=beta&t=-GhnflC5HqvZbuOnnT5IfyGNvjWvFHOIZJ3GsifhYSQ",
         fan: ["C.O.D", "Fast-Cars", "Python"],
         github: "https://github.com/AbdelSayedahmed",
         linkedin:"https://www.linkedin.com/in/abdelsayedahmed/",
